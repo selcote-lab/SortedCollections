@@ -24,7 +24,7 @@ public class StockItem implements Comparable<StockItem>{
         return price;
     }
 
-    public int getQuantityStock() {
+    public int quantityInStock() {
         return quantityStock;
     }
 
@@ -40,7 +40,6 @@ public class StockItem implements Comparable<StockItem>{
             this.quantityStock = newQuantity;
         }
     }
-
 
     @Override
     public boolean equals(Object obj) {
