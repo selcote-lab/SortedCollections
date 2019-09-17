@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3011fa49-0bdf-4053-aece-8ffd46fc15a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tonasolution/Basket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tonasolution/StockList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SortedCollections/com/tonasolution/Basket.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SortedCollections/com/tonasolution/Basket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SortedCollections/com/tonasolution/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SortedCollections/com/tonasolution/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SortedCollections/com/tonasolution/StockList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SortedCollections/com/tonasolution/StockList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tonasolution/Basket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tonasolution/Basket.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/tonasolution/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tonasolution/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tonasolution/StockItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tonasolution/StockItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tonasolution/StockList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tonasolution/StockList.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

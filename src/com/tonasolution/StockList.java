@@ -40,12 +40,12 @@ public class StockList {
     }
 
     public StockItem get(String key){
-        return this.get(key);
+        return this.list.get(key);
     }
 
     @Override
     public String toString() {
-       String s = "\nStock List\n";
+       String s = "\n Stock List \n";
        double totalCost = 0.0;
 
        for(Map.Entry<String, StockItem> item : list.entrySet()){
